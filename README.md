@@ -37,4 +37,4 @@ I designed and built an end-to-end machine learning system with a user-friendly 
 * **Web UI:** Streamlit
 * **Core Tools:** Jupyter Notebook, Git & GitHub
 
-https://github.com/user-attachments/assets/7a9d6149-a27f-4c6e-b983-163cad08e07c
+[![Watch the video](https://img.youtube.com/vi/RhID7f1pNOQ/maxresdefault.jpg)](https://youtu.be/RhID7f1pNOQ)
