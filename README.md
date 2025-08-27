@@ -37,22 +37,4 @@ I designed and built an end-to-end machine learning system with a user-friendly 
 * **Web UI:** Streamlit
 * **Core Tools:** Jupyter Notebook, Git & GitHub
 
-## 🚀 How to Run This Project
-
-This project includes an interactive web interface built with Streamlit, making it easy to use.
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/automated-product-classifier.git](https://github.com/YourUsername/automated-product-classifier.git)
-    cd automated-product-classifier
-    ```
-2.  **Install Dependencies:**
-    *(Ensure you have a `requirements.txt` file in your repository)*
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Launch the Web App:**
-    ```bash
-    streamlit run database_processing/streamlit.py
-    ```
-4.  **Interact:** Open your browser to the local URL provided by Streamlit, upload your Excel file, and run the automated classification!
+https://github.com/user-attachments/assets/7a9d6149-a27f-4c6e-b983-163cad08e07c
