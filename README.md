@@ -39,6 +39,6 @@ I designed and built an end-to-end machine learning system with a user-friendly 
 ## 🛠️ Tech Stack
 
 * **Language:** Python
-* **Machine Learning:** AutoGluon, Scikit-learn, Pandas
+* **Machine Learning:** AutoGluon, Pandas
 * **Web UI:** Streamlit
-* **Core Tools:** Jupyter Notebook, Git & GitHub
+* **Core Tools:** Git & GitHub
