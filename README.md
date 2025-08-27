@@ -24,7 +24,7 @@ An agricultural company was manually classifying thousands of imported products 
 
 I designed and built an end-to-end machine learning system with a user-friendly web interface to solve this problem.
 
-1.  **Data Processing & Cleaning:** I created robust Python scripts using **Pandas** to ingest, clean, and pre-process the raw database dumps, making the data suitable for modeling.
+1.  **Data Processing & Cleaning:** I created robust Python scripts using the fireducks **Pandas** implementation to ingest, clean, and pre-process the raw database dumps, making the data suitable for modeling.
 2.  **Dual-Model ML System:** Recognizing the complexity, I developed two specialized classification models using the **AutoGluon** (AutoML) framework:
     * **Model A (Ingredients):** An expert model trained to identify raw chemical components.
     * **Model B (Products):** An expert model trained to identify finished, branded goods.
