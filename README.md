@@ -20,9 +20,9 @@ A full demonstration of the Streamlit application is available below. Watch to s
 
 ---
 
-## The Business Problem & Data Challenge
+## Motivation
 
-To maintain a competitive edge, the company's Business Intelligence (BI) team needed to analyze a massive database of all products imported by competitors in the agricultural sector. However, this was a significant challenge:
+The company's Business Intelligence (BI) team needed to analyze a massive database of all products imported by competitors in the agricultural sector. However, this was a significant challenge:
 
 1.  **The Business Problem:** The manual analysis was so slow (taking up to 14 days) that by the time the report was ready, the competitive insights were already outdated.
 2.  **The Data Challenge:** The database contained no clear product names. It was filled with **ambiguous keywords, internal codes, and loosely associated terms**, making it nearly impossible to accurately classify products without a domain expert's painstaking manual review.
