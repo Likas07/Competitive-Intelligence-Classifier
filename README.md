@@ -122,7 +122,7 @@ The system follows this general workflow:
 * **Ambiguous Text**: Highly ambiguous or abbreviated descriptions may be difficult for the models to classify with high confidence.
 
 ---
-## ⚙️ Reproducibility
+## ⚙️ Contributing
 
 
 * **Conda Environment**: The project includes an `environment.yml` file. To create and activate the environment, clone the repository and run the following command in your terminal:
@@ -131,6 +131,10 @@ The system follows this general workflow:
     ```
 
 * **Code & Data Separation**: The `.gitignore` file is configured to exclude data files (`*.csv`, `*.xlsx`), trained models (`AutogluonModels/`), and logs from the repository. This practice keeps the codebase clean, prevents large files from bloating the repository, and separates the logic from the data it processes.
+
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
 ---
 
 ## Citations and Attributions
